@@ -2,7 +2,7 @@
 //  p12checker.cpp
 //  ECSignerForiOS
 //
-//  Created by 快游 on 2020/9/12.
+//  Created by Even on 2020/9/12.
 //  Copyright © 2020 even_cheng. All rights reserved.
 //
 
